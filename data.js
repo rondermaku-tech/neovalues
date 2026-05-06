@@ -164,7 +164,8 @@ const labelMapping = {
     "agrarian_socialism|paleoconservatism|totalitarianism|cultural_nationalism|Realpolitik": "Agrarian Fascism",
     "laissez_faire|reactionary_modernism|minarchism|cultural_nationalism|Imperialism": "Libertarian Fascism",
     "corporatism|postmodernism|totalitarianism|egoism|Imperialism": "Ego-Fascism",
-
+    "yellow_socialism|traditionalism|autocracy|cultural_nationalism|Imperialism": "Tung Tung Tung Sahur Accelarationism",
+    
     /* Reactionary ideologies */
     "agrarian_socialism|reactionaryism|aristocracy|pan_nationalism|Imperialism": "Volkism",
     "feudalism|conservatism|aristocracy|Tribalism|Imperialism": "Optimateism",
