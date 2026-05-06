@@ -165,6 +165,7 @@ const labelMapping = {
     "laissez_faire|reactionary_modernism|minarchism|cultural_nationalism|Imperialism": "Libertarian Fascism",
     "corporatism|postmodernism|totalitarianism|egoism|Imperialism": "Ego-Fascism",
 
+    
     /* Reactionary ideologies */
     "agrarian_socialism|reactionaryism|aristocracy|pan_nationalism|Imperialism": "Volkism",
     "feudalism|conservatism|aristocracy|Tribalism|Imperialism": "Optimateism",
