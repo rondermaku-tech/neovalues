@@ -158,7 +158,7 @@ const labelMapping = {
     "corporatism|progressivism|totalitarianism|Imperialism": "Futurism",
     "state_capitalism|reactionary_modernism|totalitarianism|pan_nationalism|Imperialism": "Nazism",
     "state_capitalism|traditionalism|totalitarianism|racial_nationalism": "Neonazism",
-    "yellow_socialism|traditionalism|minarchism|ethnic_nationalism|Imperialism": "Neo-Libertarian Falangism",
+    "yellow_socialism|traditionalism|minarchism|ethnic_nationalism|Imperialism": "Neo-Libertarian Falangism (Ronism)",
     "guild_socialism|reactionary_modernism|totalitarianism|ethnic_nationalism|armed_neutrality": "Strasserism",
     "yellow_socialism|traditionalism|totalitarianism|cultural_nationalism|Imperialism": "Falangism",
     "agrarian_socialism|paleoconservatism|totalitarianism|cultural_nationalism|Realpolitik": "Agrarian Fascism",
